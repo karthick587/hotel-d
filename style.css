@@ -22,11 +22,11 @@
 }
 li.netlify-identity-item {
    
-    list-style: none;
-    
+    list-style: none !important;
+    padding:0px 14px !important;
 }
 ul.netlify-identity-menu {
-    display: flex;
+    display: flex !important;
 }
 #menu{
   background-color:#101112;
@@ -86,7 +86,7 @@ li.netlify-identity-item {
   
 }
 ul.netlify-identity-menu {
-    display: inline-block;
+    display: inline-block !important;
 }	
 #myNavbar{
   margin-top: 20px;
