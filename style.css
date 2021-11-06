@@ -20,6 +20,14 @@
     
 
 }
+li.netlify-identity-item {
+   
+    list-style: none;
+    
+}
+ul.netlify-identity-menu {
+    display: flex;
+}
 #menu{
   background-color:#101112;
   
@@ -32,6 +40,12 @@
 .navbar .nav > li > a {
   line-height: 30px;
 
+}
+li.netlify-identity-item {
+    
+    list-style: none;
+    padding: 1px 13px;
+    
 }
 #bar{
   display: inline;
@@ -71,6 +85,9 @@
  margin-top:25px;
   
 }
+ul.netlify-identity-menu {
+    display: inline-block;
+}	
 #myNavbar{
   margin-top: 20px;
 }
