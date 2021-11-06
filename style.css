@@ -379,6 +379,6 @@ li.netlify-identity-item {
     list-style: none !important;
     padding:0px 14px !important;
 }
-ul.netlify-identity-menu {
-    display: flex !important;
+.netlify-identity-menu {
+    display: flex;
 }
